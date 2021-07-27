@@ -1,4 +1,4 @@
-# jenkins-2.289.1_plugins
+# jenkins_plugins
 
 
 This repository contains all the basic plugins for the jenkins. 
